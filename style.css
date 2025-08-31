@@ -109,6 +109,7 @@ nav ul li a:hover {
 
 /* ===== BUTTONS ===== */
 button {
+  background: #06284d;
    color: #d4af37;
   padding: 12px 25px;
   text-decoration: none;
