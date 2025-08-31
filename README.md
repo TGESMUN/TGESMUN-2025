@@ -6,6 +6,32 @@ GES Madhapur Mun 2025
   <meta charset="UTF-8">
   <title>TGES MDP MUN 2025</title>
   <link rel="stylesheet" href="/css/style.css">
+  <style>
+    /* Remove list styles */
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: #333;
+      overflow: hidden;
+    }
+    /* Display menu items horizontally */
+    li {
+      float: left;
+    }
+    /* Style the links */
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+    /* Hover effect */
+    li a:hover {
+      background-color: #111;
+    }
+  </style>
   </head>
 <body>
   <!-- Navigation -->
