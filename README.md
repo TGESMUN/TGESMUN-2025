@@ -156,4 +156,104 @@ safely, and protect global health.
   </section>
 </body>
 </html>
+/* General */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #fdfdfd;
+  color: #222;
+}
+
+/* Navbar */
+nav {
+  background: #001f3f; /* Dark blue */
+  padding: 12px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #FFD700; /* Gold */
+  font-weight: bold;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: white;
+}
+
+/* Sections */
+.page {
+  padding: 60px 10%;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #001f3f; /* Dark blue */
+}
+
+h3 {
+  color: #FFD700; /* Gold */
+}
+
+/* Buttons */
+button {
+  background: #001f3f;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #FFD700;
+  color: #001f3f;
+  font-weight: bold;
+}
+
+/* Date Box */
+.date-box {
+  background: #FFD700;
+  color: #001f3f;
+  padding: 12px 20px;
+  margin-top: 20px;
+  display: inline-block;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+/* Committees */
+.committee {
+  background: white;
+  border: 2px solid #001f3f;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 70%;
+  text-align: left;
+  box-shadow: 0 0 12px rgba(0,0,0,0.15);
+}
+
+
+
+
 
