@@ -3,9 +3,10 @@ GES Madhapur Mun 2025
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>TGES MDP MUN 2025</title>
-  <link rel="stylesheet" href="/css/style.css">
-  </head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TGES Madhapur MUN</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 <body>
    <ul>
       <li><a href="#home">Home</a></li>
