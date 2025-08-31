@@ -5,6 +5,11 @@ GES Madhapur Mun 2025
   <meta charset="UTF-8">
   <title> TGES Madhapur MUN  </title>
   <link rel="stylesheet" href="style.css">
+   <style>
+    body {
+      background-color: lightblue; /* Change this to any color */
+    }
+  </style>
 </head>
 <body>
   <!-- Navigation -->
