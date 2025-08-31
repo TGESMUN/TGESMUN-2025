@@ -75,12 +75,11 @@ GES Madhapur Mun 2025
     </p>
     <hr>
     <h3>OC Heads</h3>
-     <p>
-    <strong>Shreshta Chakkat </strong>
+    <p>
+    <strong>Shreshta Chakkat </strong> <br>
     <img src="images/shreshta.jpg" width="20%" height="10%" > <br>
     <strong>Samhitha Sahukaru</strong> <br>
-     img src="images/blank.png" width="10%" height="10%" > <br>
-    <img src="images/Samhitha.png" width="20%" height="10%">
+     <img src="images/Samhitha.png" width="20%" height="10%">
     </p>
   </section>
 
