@@ -101,10 +101,8 @@ reach groups or governments that might harm civilians. The discussion will focus
     <strong>Chairs</strong> – Saanvi reddy <br>
     <strong>co-chair</strong> – Shravya rayaprolu <br>
       <button onclick="window.open('https://docs.google.com/document/d/1_rJ7avgOvFsA18Yfc2Mz76GK3VMUV2ctze-EX42Jhs0/edit?usp=sharing')">Background Guide</button>
- 
-    </div>
-
-    <div class="committee">
+ </div>
+<div class="committee">
       <h3>UNHRC</h3>
       <p><strong>Introduction:</strong> The United Nations Human Rights Council (UNHRC) is a body within the
 UN that works to protect and promote human rights around the world. It
@@ -119,10 +117,12 @@ make recommendations to improve human rights globally.
  <p><strong>explanation:</strong>This agenda looks at how violations of human rights—like denial of safety,
 freedom, or basic needs—affect people and society. Special attention will be given to children and refugees, who are often the most vulnerable in such situations. The discussion will focus on how these violations harm lives, create inequality, and threaten peace, and what nations can do together to protect human dignity and ensure justice.
  </p>
+<p>
+    <strong>Chairs</strong> – Unnathi <br>
+    <strong>co-chair</strong> – Tarun <br>
       <button onclick="window.open('https://docs.google.com/document/d/1to70kgQy_bAITcfP6FCVYxWvi-9tWVm7eqTy4CIWyrc/edit?usp=sharing')">Background Guide</button>
     </div>
-
-    <div class="committee">
+<div class="committee">
       <h3>UNCSW</h3>
       <p><strong>Introduction:</strong>The UN Commission on the Status of Women (UNCSW) is a UN body that works to promote women’s rights and gender equality. It discusses issues like women’s safety, education, leadership, and equal opportunities, while also reviewing
 progress made by countries in supporting women.
@@ -133,10 +133,12 @@ socio-economic differences.
 </p>
 <p><strong>explanation:</strong>This agenda focuses on making sure that everyone has equal rights, opportunities, and respect in society. It also looks at how poverty and social inequalities affect gender equality. The discussion will highlight ways countries can work together to remove barriers, promote fairness, and create a society where everyone—regardless of gender or background—can succeed equally.
 </p>
+<p>
+    <strong>Chairs</strong> – Anjana <br>
+    <strong>co-chair</strong> – Jeni <br>
       <button onclick="window.open('https://docs.google.com/document/d/1W5iRCZXLR8o8nHOCbIrXXkY0KpIVUHbJBD-2wifVvQE/edit?usp=sharing')">Background Guide</button>
     </div>
-
-    <div class="committee">
+ <div class="committee">
       <h3>WHO</h3>
       <p><strong>Introduction:</strong> The World Health Organization (WHO) is a specialized agency of the United
 Nations that focuses on global health. It works to fight diseases, improve healthcare systems, and promote the well-being of people worldwide. WHO also provides guidance during health emergencies, such as pandemics, and helps countries work together to improve public health.
@@ -151,6 +153,9 @@ diseases, damage the environment, and harm future generations. The discussion
 will focus on how countries can work together to reduce pollution, manage waste
 safely, and protect global health.
  </p>
+<p>
+    <strong>Chairs</strong> – Sagarika <br>
+    <strong>co-chair</strong> – Sayona <br>
       <button onclick="window.open('https://docs.google.com/document/d/1uGXKadyg7chzjHVGR_mO_3-sYdW5XZBrdizZ1dDBrEw/edit?usp=sharing')">Background Guide</button>
     </div>
   </section>
