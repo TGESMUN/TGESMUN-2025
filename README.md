@@ -98,7 +98,7 @@ about how countries should be responsible when selling arms, ensuring they don�
 reach groups or governments that might harm civilians. The discussion will focus on the need for fairness, responsibility, and cooperation between nations to keep the world safe and peaceful.
 </p>
 <p>
-    <strong>Chairs</strong> – Saanvi reddy <br>
+    <strong>co-chairs</strong> – Saanvi reddy <br>
     <strong>co-chair</strong> – Shravya rayaprolu <br>
 </p>
       <button onclick="window.open('https://docs.google.com/document/d/1_rJ7avgOvFsA18Yfc2Mz76GK3VMUV2ctze-EX42Jhs0/edit?usp=sharing')">Background Guide</button>
@@ -119,7 +119,7 @@ make recommendations to improve human rights globally.
 freedom, or basic needs—affect people and society. Special attention will be given to children and refugees, who are often the most vulnerable in such situations. The discussion will focus on how these violations harm lives, create inequality, and threaten peace, and what nations can do together to protect human dignity and ensure justice.
  </p>
 <p>
-    <strong>Chairs</strong> – Unnathi <br>
+    <strong>co-chairs</strong> – Unnathi <br>
     <strong>co-chair</strong> – Tarun <br>
 </p>
       <button onclick="window.open('https://docs.google.com/document/d/1to70kgQy_bAITcfP6FCVYxWvi-9tWVm7eqTy4CIWyrc/edit?usp=sharing')">Background Guide</button>
@@ -136,7 +136,7 @@ socio-economic differences.
 <p><strong>explanation:</strong>This agenda focuses on making sure that everyone has equal rights, opportunities, and respect in society. It also looks at how poverty and social inequalities affect gender equality. The discussion will highlight ways countries can work together to remove barriers, promote fairness, and create a society where everyone—regardless of gender or background—can succeed equally.
 </p>
 <p>
-    <strong>Chairs</strong> – Anjana <br>
+    <strong>co-chairs</strong> – Anjana <br>
     <strong>co-chair</strong> – Jeni <br>
 </p>
       <button onclick="window.open('https://docs.google.com/document/d/1W5iRCZXLR8o8nHOCbIrXXkY0KpIVUHbJBD-2wifVvQE/edit?usp=sharing')">Background Guide</button>
@@ -157,12 +157,22 @@ will focus on how countries can work together to reduce pollution, manage waste
 safely, and protect global health.
  </p>
 <p>
-    <strong>Chairs</strong> – Sagarika <br>
+    <strong>co-chair</strong> – Sagarika <br>
     <strong>co-chair</strong> – Sayona <br>
 </p>
       <button onclick="window.open('https://docs.google.com/document/d/1uGXKadyg7chzjHVGR_mO_3-sYdW5XZBrdizZ1dDBrEw/edit?usp=sharing')">Background Guide</button>
     </div>
-  </section>
+<div class="committee">
+<h4>IP</h4>
+ <p><strong>Explanation:</strong> IP journalism is a type of reporting where journalists carefully research and dig deep to find the truth about important issues. Instead of just sharing daily news, they investigate hidden facts, corruption, crimes, or unfair practices. The goal is to inform people, protect their rights, and bring positive change by showing what’s really happening behind the scenes.
+ </p>
+<p>
+    <strong>IP head</strong> – Nimisha <br>
+    <strong>IP head</strong> – Nivriti <br>
+</p>
+<button onclick="window.open('https://docs.google.com/document/d/1JlcAyPZINiwhkv6HGjCMXIZgiDoBuFEf/edit?usp=sharing&ouid=110180094905182642616&rtpof=true&sd=true')">Background Guide</button>
+</div>
+ </section>
 
   <!-- ALLOCATION -->
   <section id="allocation" class="page">
