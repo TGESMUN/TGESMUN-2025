@@ -4,7 +4,6 @@ GES Madhapur Mun 2025
 <head>
   <meta charset="UTF-8">
   <title> TGES Madhapur MUN  </title>
-   <img src="images/">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -60,19 +59,19 @@ GES Madhapur Mun 2025
   <!-- SECRETARIAT -->
   <section id="secretariat" class="page">
     <h2>Secretariat</h2>
-  <strong>Saanvi Reddy -Secretery General</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Shravya Rayaprolu-Director General </strong>
-    <p class="side-by-side">    
-    <img src="images/saanvi.jpeg" width="18.9%" height="14%" > 
-    <img src="images/blank.png" width="12%" height="15%" >
-    <img src="images/Shravya EB.jpeg" width="17.9%" height="7%">
+  <strong>Saanvi Reddy -Secretery General</strong> <br>
+    <p>    
+    <img src="images/saanvi.jpeg" width="20%" height="10%" > <br>
+    <strong>Shravya Rayaprolu-Director General </strong> <br>
+    <img src="images/Shravya EB.jpeg" width="20%" height="10%">
     </p>
     <hr>
     <h3>Tech Team</h3>
-    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rishika Chowdary</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tasvita Manugunta </strong>
-    <p class="side-by-side">    
-    <img src="images/Rishika.jpg" width="20%" height="10%" > 
-    <img src="images/blank.png" width="10%" height="10%" >
-    <img src="images/tasvita.jpg" width="18.9%" height="10%">
+    <p>  
+    <strong>Rishika Chowdary</strong> <br>
+    <img src="images/Rishika.jpg" width="20%" height="10%" > <br>
+    <strong>Tasvita Manugunta </strong> <br>
+    <img src="images/tasvita.jpg" width="20%" height="10%">
     </p>
     <hr>
     <h3>OC Heads</h3>
