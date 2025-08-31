@@ -71,9 +71,9 @@ GES Madhapur Mun 2025
     <h3>Tech Team</h3>
     <p class="side-by-side" >
     <strong> Rishika Chowdary</strong> <br>
-    <img src="images/Rishika.jpg" > 
+    <img src="images/Rishika.jpg" width="20%" height="10%" > 
     <strong> Tasvita Manugunta </strong> <br>
-    <img src="images/tasvita.jpg" >
+    <img src="images/tasvita.jpg" width="20%" height="10%">
     </p>
     <hr>
     <h3>OC Heads</h3>
