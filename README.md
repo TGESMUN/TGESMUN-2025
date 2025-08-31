@@ -5,9 +5,7 @@ GES Madhapur Mun 2025
 <head>
   <meta charset="UTF-8">
   <title>TGES MDP MUN 2025</title>
-  <link rel="stylesheet" href="/css/style.css">
   <style>
-    /* Remove list styles */
     ul {
       list-style-type: none;
       margin: 0;
@@ -15,11 +13,9 @@ GES Madhapur Mun 2025
       background-color: #333;
       overflow: hidden;
     }
-    /* Display menu items horizontally */
     li {
       float: left;
     }
-    /* Style the links */
     li a {
       display: block;
       color: white;
@@ -27,24 +23,19 @@ GES Madhapur Mun 2025
       padding: 14px 20px;
       text-decoration: none;
     }
-    /* Hover effect */
     li a:hover {
       background-color: #111;
     }
   </style>
   </head>
 <body>
-  <!-- Navigation -->
-  <nav>
-    <ul>
+   <ul>
       <li><a href="#home">Home</a></li>
       <li><a href="#resources">Resources</a></li>
       <li><a href="#secretariat">Secretariat</a></li>
       <li><a href="#committees">Committees</a></li>
       <li><a href="#allocation">Allocation Matrix</a></li>
     </ul>
-  </nav>
-
   <!-- HOME -->
   <section id="home" class="page">
     <h1>WELCOME TO THE TGES MDP MUN ’25</h1>
