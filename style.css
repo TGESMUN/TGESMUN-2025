@@ -5,7 +5,8 @@
   box-sizing: border-box;
 }
 body {
-    color: darkblue; /* Change this to any color */
+    background-color: darkblue; 
+    color: white; /* Change this to any color */
     }
 /* ===== LOGO ===== */
 .logo {
