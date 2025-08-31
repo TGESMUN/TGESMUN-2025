@@ -5,13 +5,13 @@
   box-sizing: border-box;
 }
 body {
-    background-color: #2F5E63; 
+    background-color: #213845; 
     color: white; /* Change this to any color */
     }
 /* ===== LOGO ===== */
 .logo {
   text-align: center;
-  background: #2F5E63;
+  background: #213845;
   padding: 10px;
 }
 .logo img {
