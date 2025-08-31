@@ -3,11 +3,12 @@ GES Madhapur Mun 2025
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TGES Madhapur MUN</title>
+  <title> TGES Madhapur MUN  </title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- Navigation -->
+  <nav>
    <ul>
       <li><a href="#home">Home</a></li>
       <li><a href="#resources">Resources</a></li>
@@ -15,6 +16,7 @@ GES Madhapur Mun 2025
       <li><a href="#committees">Committees</a></li>
       <li><a href="#allocation">Allocation Matrix</a></li>
     </ul>
+  </nav>
   <!-- HOME -->
   <section id="home" class="page">
     <h1>WELCOME TO THE TGES MDP MUN ’25</h1>
