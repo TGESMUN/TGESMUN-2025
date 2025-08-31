@@ -50,7 +50,7 @@ GES Madhapur Mun 2025
       TGES MDP MUN 2025–26
     </p>
 
-    <div class="buttons">
+  <div class="buttons">
       <button onclick="window.open('https://docs.google.com/document/d/18hp03RQXdPbO71gocs_00u7tcxDngcKRp7iulEq1_nA/edit?usp=sharing')">Code of Conduct</button>
       <button onclick="window.open('https://docs.google.com/document/d/1DjNaz8-fMs5FzCpSRm4ZqnLZ8c2aJxU3z7txzrp9Z3E/edit?usp=sharing')">MUN Guide</button>
     </div>
@@ -79,7 +79,7 @@ GES Madhapur Mun 2025
   <section id="committees" class="page">
     <h2>Committees</h2>
 
-    <div class="committee">
+   <div class="committee">
       <h3>DISEC</h3>
       <p><strong>Introduction:</strong>The Disarmament and International Security Committee (DISEC) deals with
 issues of peace, security, and disarmament. The committee works on
@@ -100,6 +100,7 @@ reach groups or governments that might harm civilians. The discussion will focus
 <p>
     <strong>Chairs</strong> – Saanvi reddy <br>
     <strong>co-chair</strong> – Shravya rayaprolu <br>
+</p>
       <button onclick="window.open('https://docs.google.com/document/d/1_rJ7avgOvFsA18Yfc2Mz76GK3VMUV2ctze-EX42Jhs0/edit?usp=sharing')">Background Guide</button>
  </div>
 <div class="committee">
@@ -120,6 +121,7 @@ freedom, or basic needs—affect people and society. Special attention will be g
 <p>
     <strong>Chairs</strong> – Unnathi <br>
     <strong>co-chair</strong> – Tarun <br>
+</p>
       <button onclick="window.open('https://docs.google.com/document/d/1to70kgQy_bAITcfP6FCVYxWvi-9tWVm7eqTy4CIWyrc/edit?usp=sharing')">Background Guide</button>
     </div>
 <div class="committee">
@@ -136,6 +138,7 @@ socio-economic differences.
 <p>
     <strong>Chairs</strong> – Anjana <br>
     <strong>co-chair</strong> – Jeni <br>
+</p>
       <button onclick="window.open('https://docs.google.com/document/d/1W5iRCZXLR8o8nHOCbIrXXkY0KpIVUHbJBD-2wifVvQE/edit?usp=sharing')">Background Guide</button>
     </div>
  <div class="committee">
@@ -156,6 +159,7 @@ safely, and protect global health.
 <p>
     <strong>Chairs</strong> – Sagarika <br>
     <strong>co-chair</strong> – Sayona <br>
+</p>
       <button onclick="window.open('https://docs.google.com/document/d/1uGXKadyg7chzjHVGR_mO_3-sYdW5XZBrdizZ1dDBrEw/edit?usp=sharing')">Background Guide</button>
     </div>
   </section>
