@@ -33,7 +33,6 @@ GES Madhapur Mun 2025
   <section id="resources" class="page">
     <h2>Message from the Secretary-General</h2>
     <p><strong>Saanvi Reddy</strong><br>
-    <img src="/images/saanvi.jpeg" >
     Secretary-General<br>
     TGES MDP MUN 2025–26</p>
     <p>
@@ -63,7 +62,7 @@ GES Madhapur Mun 2025
   <section id="secretariat" class="page">
     <h2>Secretariat</h2>
     <p><strong>Saanvi Reddy</strong> – Secretary-General</p>
-<img src="/images/saanvi.jpeg" alt="saanvi reddy">
+<img src="/images/saanvi.jpeg" >
 
     <p><strong>Shravya Rayapolu</strong> – Director-General</p>
     <hr>
