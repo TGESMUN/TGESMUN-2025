@@ -67,7 +67,7 @@ GES Madhapur Mun 2025
     </p>
     <p>
     <strong>Shravya Rayapolu</strong> – Director-General <br>
-    <img src="/images/Shravya EB.jpeg" width="20%" height="10%">
+    <img src="images/Shravya EB.jpeg" width="20%" height="10%">
     </p>
     <hr>
     <h3>Tech Team</h3>
