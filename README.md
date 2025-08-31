@@ -61,10 +61,12 @@ GES Madhapur Mun 2025
   <!-- SECRETARIAT -->
   <section id="secretariat" class="page">
     <h2>Secretariat</h2>
-    <p><strong>Saanvi Reddy</strong> – Secretary-General</p>
-<img src="/images/saanvi.jpeg" >
+    <p><strong>Saanvi Reddy</strong> – Secretary-General
+      <img src="/images/saanvi.jpeg" ></p>
+
 
     <p><strong>Shravya Rayapolu</strong> – Director-General</p>
+<img src="/images/.jpeg" >
     <hr>
     <h3>Tech Team</h3>
     <p>Rishika Chowdary, Tasvita Manugunta</p>
