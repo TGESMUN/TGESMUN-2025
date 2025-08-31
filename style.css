@@ -142,4 +142,16 @@ button {
       margin-right: 10px; /* spacing between images */
       vertical-align: middle; /* align nicely with text */
     }
+.centered-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 24px;
+      font-weight: bold;
+      background: rgba(0, 0, 0, 0.5); /* optional: adds contrast */
+      padding: 10px 20px;
+      border-radius: 8px;
+    }
 
