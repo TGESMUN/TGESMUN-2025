@@ -4,6 +4,7 @@ GES Madhapur Mun 2025
 <head>
   <meta charset="UTF-8">
   <title> TGES Madhapur MUN  </title>
+   <img src="images/">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
