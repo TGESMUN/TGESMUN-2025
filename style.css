@@ -7,11 +7,10 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #ffffff;
+  background-color: lightblue; 
   color: #333;
   line-height: 1.6;
 }
-
 /* ===== LOGO ===== */
 .logo {
   text-align: center;
