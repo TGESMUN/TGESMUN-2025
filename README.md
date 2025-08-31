@@ -5,7 +5,7 @@ GES Madhapur Mun 2025
 <head>
   <meta charset="UTF-8">
   <title>TGES MDP MUN 2025</title>
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/style.css">
   </head>
 <body>
   <!-- Navigation -->
