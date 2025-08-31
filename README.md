@@ -1,6 +1,6 @@
 # TGESMUN-2025
 GES Madhapur Mun 2025
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
