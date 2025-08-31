@@ -107,9 +107,9 @@ reach groups or governments that might harm civilians. The discussion will focus
 </p>
 <p> 
  <strong>Saanvi Reddy -co-chair</strong> <br>
-  <img src="images/saanvi.jpeg" width="18.9%" height="12%" > <br>
+  <img src="images/saanvi.jpeg" width="20%" height="10%" > <br>
  <strong>Shravya Rayaprolu-co-chair</strong> <br>
-  <img src="images/Shravya EB.jpeg" width="17.9%" height="10%">
+  <img src="images/Shravya EB.jpeg" width="20%" height="10%">
     </p>
       <button onclick="window.open('https://docs.google.com/document/d/1_rJ7avgOvFsA18Yfc2Mz76GK3VMUV2ctze-EX42Jhs0/edit?usp=sharing')">Background Guide</button>
 <div class="committee">
