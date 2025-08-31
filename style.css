@@ -5,10 +5,8 @@
   box-sizing: border-box;
 }
 body {
-  font-family: 'Arial', sans-serif;
-  background-color:lightblue; 
-  line-height: 1.6;
-}
+      background-color: lightblue; /* Change this to any color */
+    }
 /* ===== LOGO ===== */
 .logo {
   text-align: center;
