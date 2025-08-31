@@ -75,10 +75,11 @@ GES Madhapur Mun 2025
     </p>
     <hr>
     <h3>OC Heads</h3>
-    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shreshta Chakkat </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Samhitha Sahukaru</strong>
-    <p class="side-by-side">    
-    <img src="images/shreshta.jpg" width="20%" height="10%" > 
-    <img src="images/blank.png" width="10%" height="10%" >
+     <p>
+    <strong>Shreshta Chakkat </strong>
+    <img src="images/shreshta.jpg" width="20%" height="10%" > <br>
+    <strong>Samhitha Sahukaru</strong> <br>
+     img src="images/blank.png" width="10%" height="10%" > <br>
     <img src="images/Samhitha.png" width="20%" height="10%">
     </p>
   </section>
@@ -104,12 +105,12 @@ regulating arms exports to prevent human rights violations and conflicts.
 weapons to make sure they don’t cause wars or abuse human rights. This agenda is
 about how countries should be responsible when selling arms, ensuring they don’t
 reach groups or governments that might harm civilians. The discussion will focus on the need for fairness, responsibility, and cooperation between nations to keep the world safe and peaceful.
-</p>
- <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saanvi Reddy -co-chair</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Shravya Rayaprolu-co-chair</strong>
-    <p class="side-by-side">    
-    <img src="images/saanvi.jpeg" width="18.9%" height="12%" > 
-    <img src="images/blank.png" width="10%" height="10%" >
-    <img src="images/Shravya EB.jpeg" width="17.9%" height="10%">
+</p
+<p> 
+ <strong>Saanvi Reddy -co-chair</strong> <br>
+  <img src="images/saanvi.jpeg" width="18.9%" height="12%" > <br>
+ <strong>Shravya Rayaprolu-co-chair</strong> <br>
+  <img src="images/Shravya EB.jpeg" width="17.9%" height="10%">
     </p>
       <button onclick="window.open('https://docs.google.com/document/d/1_rJ7avgOvFsA18Yfc2Mz76GK3VMUV2ctze-EX42Jhs0/edit?usp=sharing')">Background Guide</button>
  </div>
@@ -128,11 +129,11 @@ make recommendations to improve human rights globally.
  <p><strong>explanation:</strong>This agenda looks at how violations of human rights—like denial of safety,
 freedom, or basic needs—affect people and society. Special attention will be given to children and refugees, who are often the most vulnerable in such situations. The discussion will focus on how these violations harm lives, create inequality, and threaten peace, and what nations can do together to protect human dignity and ensure justice.
  </p>
- <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unnathi Rapaka -co-chair</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tarun-co-chair</strong>
-    <p class="side-by-side">    
-    <img src="images/Unnathi.jpeg" width="18.9%" height="15%" > 
-    <img src="images/blank.png" width="10%" height="10%" >
-    <img src="images/TARUN EB.jpeg" width="17.9%" height="10%">
+ <p>
+ <strong>Unnathi Rapaka -co-chair</strong>  <br> 
+    <img src="images/Unnathi.jpeg" width="20%" height="10%" > <br>
+   <strong>Tarun -co-chair</strong>  <br> 
+     <img src="images/TARUN EB.jpeg" width="20%" height="10%">
     </p>
       <button onclick="window.open('https://docs.google.com/document/d/1to70kgQy_bAITcfP6FCVYxWvi-9tWVm7eqTy4CIWyrc/edit?usp=sharing')">Background Guide</button>
     </div>
@@ -147,11 +148,11 @@ socio-economic differences.
 </p>
 <p><strong>explanation:</strong>This agenda focuses on making sure that everyone has equal rights, opportunities, and respect in society. It also looks at how poverty and social inequalities affect gender equality. The discussion will highlight ways countries can work together to remove barriers, promote fairness, and create a society where everyone—regardless of gender or background—can succeed equally.
 </p>
- <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anjana Avasarala-co-chair</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Jeni-co-chair</strong>
-    <p class="side-by-side">    
-    <img src="images/ANJANA EB.jpeg" width="18.9%" height="6%" > 
-    <img src="images/blank.png" width="10%" height="10%" >
-    <img src="images/JENI EB.jpeg" width="17.9%" height="12%">
+  <p>
+ <strong>Anjana Avasarala-co-chair</strong> <br>
+     <img src="images/ANJANA EB.jpeg" width="20%" height="10%" > <br>
+    <strong>Jeni-co-chair</strong> <br>
+    <img src="images/JENI EB.jpeg" width="20%" height="10%">
     </p>
       <button onclick="window.open('https://docs.google.com/document/d/1W5iRCZXLR8o8nHOCbIrXXkY0KpIVUHbJBD-2wifVvQE/edit?usp=sharing')">Background Guide</button>
     </div>
@@ -170,23 +171,23 @@ diseases, damage the environment, and harm future generations. The discussion
 will focus on how countries can work together to reduce pollution, manage waste
 safely, and protect global health.
  </p>
- <strong>&nbsp;&nbsp;&nbsp;&nbsp;Sagarika Das -co-chair</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Sayona Swastika-co-chair</strong>
-    <p class="side-by-side">    
-    <img src="images/Sagarika.png" width="18.9%" height="6%" > 
-    <img src="images/blank.png" width="10%" height="10%" >
-    <img src="images/SAYONA EB.jpeg" width="17.9%" height="10%">
-    </p>
+<p>
+ <strong>Sagarika Das -co-chair</strong> <br>
+  <img src="images/Sagarika.png" width="20%" height="10%" > <br>
+ <strong>Sayona Swastika-co-chair</strong> <br>
+  <img src="images/SAYONA EB.jpeg" width="20%" height="10%">
+</p>
       <button onclick="window.open('https://docs.google.com/document/d/1uGXKadyg7chzjHVGR_mO_3-sYdW5XZBrdizZ1dDBrEw/edit?usp=sharing')">Background Guide</button>
     </div>
 <div class="committee">
 <h4>IP</h4>
  <p><strong>Explanation:</strong> IP journalism is a type of reporting where journalists carefully research and dig deep to find the truth about important issues. Instead of just sharing daily news, they investigate hidden facts, corruption, crimes, or unfair practices. The goal is to inform people, protect their rights, and bring positive change by showing what’s really happening behind the scenes.
  </p>
- <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nimisha Bomidala-IP head</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Nivriti-IP head</strong>
-    <p class="side-by-side">    
-    <img src="images/Nimisha.png" width="18.9%" height="10%" > 
-    <img src="images/blank.png" width="10%" height="10%" >
-    <img src="images/Nivriti.png" width="17.9%" height="10%">
+   <p >
+ <strong>Nimisha Bomidala-IP head</strong> <br>
+     <img src="images/Nimisha.png" width="20%" height="10%" > <br>
+         <strong>Nivriti-IP head</strong> <br>
+    <img src="images/Nivriti.png" width="20%" height="10%">
     </p>
 <button onclick="window.open('https://docs.google.com/document/d/1JlcAyPZINiwhkv6HGjCMXIZgiDoBuFEf/edit?usp=sharing&ouid=110180094905182642616&rtpof=true&sd=true')">Background Guide</button>
 </div>
