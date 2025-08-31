@@ -97,6 +97,9 @@ weapons to make sure they don’t cause wars or abuse human rights. This agenda 
 about how countries should be responsible when selling arms, ensuring they don’t
 reach groups or governments that might harm civilians. The discussion will focus on the need for fairness, responsibility, and cooperation between nations to keep the world safe and peaceful.
 </p>
+<p>
+    <strong>Chairs</strong> – Saanvi reddy <br>
+    <strong>co-chair</strong> – Shravya rayaprolu <br>
       <button onclick="window.open('https://docs.google.com/document/d/1_rJ7avgOvFsA18Yfc2Mz76GK3VMUV2ctze-EX42Jhs0/edit?usp=sharing')">Background Guide</button>
  
     </div>
