@@ -62,7 +62,7 @@ GES Madhapur Mun 2025
   <section id="secretariat" class="page">
     <h2>Secretariat</h2>
     <p>
-    <strong>Saanvi Reddy</strong> – Secretary-General
+    <strong>Saanvi Reddy</strong> – Secretary-General <br>
     <img src="images/saanvi.jpeg" width="20%" height="10%">
     </p>
     <p>
