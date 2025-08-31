@@ -59,26 +59,28 @@ GES Madhapur Mun 2025
   <!-- SECRETARIAT -->
   <section id="secretariat" class="page">
     <h2>Secretariat</h2>
-    <p>
-    <strong>Saanvi Reddy</strong> – Secretary-General <br>
-    <img src="images/saanvi.jpeg" width="20%" height="10%">
-    </p>
-    <p>
-    <strong>Shravya Rayapolu</strong> – Director-General <br>
-    <img src="images/Shravya EB.jpeg" width="20%" height="10%">
+  <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saanvi Reddy -Secretery General</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Shravya Rayaprolu-Director General </strong>
+    <p class="side-by-side">    
+    <img src="images/saanvi.jpeg" width="18.9%" height="12%" > 
+    <img src="images/blank.png" width="10%" height="10%" >
+    <img src="images/Shravya EB.jpeg" width="17.9%" height="9%">
     </p>
     <hr>
     <h3>Tech Team</h3>
-    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rishika Chowdary</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <strong>Tasvita Manugunta </strong>
+    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rishika Chowdary</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tasvita Manugunta </strong>
     <p class="side-by-side">    
     <img src="images/Rishika.jpg" width="20%" height="10%" > 
-    <img src="images/blank.png" width="20%" height="10%" >
+    <img src="images/blank.png" width="10%" height="10%" >
     <img src="images/tasvita.jpg" width="18.9%" height="10%">
     </p>
     <hr>
     <h3>OC Heads</h3>
-    <p>Samhitha Sahukaru, Shreshta Raghu</p>
+    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shreshta Chakkat </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Samhitha Sahukaru</strong>
+    <p class="side-by-side">    
+    <img src="images/shreshta.jpg" width="20%" height="10%" > 
+    <img src="images/blank.png" width="10%" height="10%" >
+    <img src="images/Samhitha.png" width="20%" height="10%">
+    </p>
   </section>
 
   <!-- COMMITTEES -->
