@@ -86,7 +86,7 @@ button:hover {
 
 /* Committees */
 .committee {
-  background: white;
+  background: dark blue;
   border: 2px solid #001f3f;
   padding: 20px;
   margin: 20px auto;
