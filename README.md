@@ -69,7 +69,8 @@ GES Madhapur Mun 2025
     </p>
     <hr>
     <h3>Tech Team</h3>
-    <p>Rishika Chowdary, Tasvita Manugunta</p>
+    <p>Rishika Chowdary<img src="images/saanvi.jpeg" width="20%" height="10%"><br></p>
+    <p>Tasvita Manugunta<img src="images/saanvi.jpeg" width="20%" height="10%"></p>
     <hr>
     <h3>OC Heads</h3>
     <p>Samhitha Sahukaru, Shreshta Raghu</p>
