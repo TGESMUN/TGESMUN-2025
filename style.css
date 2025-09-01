@@ -101,6 +101,11 @@ nav ul li a:hover {
   font-size: 1.5rem;
   margin-bottom: 10px;
 }
+.hero-text h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #F5F5DC;
+}
 .hero-text p {
   font-size: 1.2rem;
   margin-bottom: 20px;
