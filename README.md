@@ -6,7 +6,7 @@ GES Madhapur Mun 2025
   <title> TGES Madhapur MUN  </title>
   <link rel="stylesheet" href="style.css">
 </head>
-  <body>
+<body>
   <!-- Navigation -->
   <nav>
    <ul>
@@ -197,3 +197,4 @@ safely, and protect global health.
 </section>
 </body>
 </html>
+
