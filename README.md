@@ -46,7 +46,7 @@ GES Madhapur Mun 2025
       I look forward to seeing the ideas and energy you bring, and I am confident this edition will be a memorable and impactful experience for all.
       <br><br>
       Warm regards,<br>
-      <strong>Saanvi Reddy</strong><br>
+      Saanvi Reddy<br>
       Secretary-General<br>
       TGES MDP MUN 2025–26
     </p>
