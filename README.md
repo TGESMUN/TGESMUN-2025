@@ -30,7 +30,8 @@ GES Madhapur Mun 2025
   <!-- RESOURCES -->
   <section id="resources" class="page">
     <h2>Message from the Secretary-General</h2>
-    <p><strong>Saanvi Reddy</strong><br>
+    <p>
+    Saanvi Reddy<br>
     Secretary-General<br>
     TGES MDP MUN 2025–26</p>
     <p>
