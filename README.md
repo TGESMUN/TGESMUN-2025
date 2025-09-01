@@ -3,7 +3,7 @@ GES Madhapur Mun 2025
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-   <img src="logo.png" alt="Logo"> 
+   <img src="images/GESMUN.jpeg" alt="Logo"> 
   <title> TGES Madhapur MUN  </title>
   <link rel="stylesheet" href="style.css">
 </head>
