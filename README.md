@@ -188,7 +188,6 @@ safely, and protect global health.
     <img src="images/Nivriti.png" width="20%" height="10%">
     </p>
 <button onclick="window.open('https://docs.google.com/document/d/1JlcAyPZINiwhkv6HGjCMXIZgiDoBuFEf/edit?usp=sharing&ouid=110180094905182642616&rtpof=true&sd=true')">Background Guide</button>
-</div>
 </section>
  <!-- ALLOCATION -->
 <section id="allocation" class="page">
