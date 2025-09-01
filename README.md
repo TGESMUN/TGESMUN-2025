@@ -1,8 +1,9 @@
-# TGESMUN-2025
+# TGESMUN-2025 
 GES Madhapur Mun 2025
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+   <img src="logo.png" alt="Logo"> 
   <title> TGES Madhapur MUN  </title>
   <link rel="stylesheet" href="style.css">
 </head>
