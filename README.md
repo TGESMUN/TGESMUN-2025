@@ -190,11 +190,11 @@ safely, and protect global health.
 <button onclick="window.open('https://docs.google.com/document/d/1JlcAyPZINiwhkv6HGjCMXIZgiDoBuFEf/edit?usp=sharing&ouid=110180094905182642616&rtpof=true&sd=true')">Background Guide</button>
 </div>
  </section>
-  <!-- ALLOCATION -->
+ <!-- ALLOCATION -->
   <section id="allocation" class="page">
     <h2>Allocation Matrix</h2>
     <p>The Allocation Matrix will be available here.</p>
      <button onclick="window.open('https://docs.google.com/spreadsheets/d/1jPUQCrC6n_vRg0s-nd_gM9B0DQ9I-jgaq9NSlTf4Mco/edit?usp=sharing')">View Allocation Matrix</button>
-  </section>
-</body>
-</html>
+ </section>
+ </body>
+ </html>
