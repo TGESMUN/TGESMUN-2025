@@ -23,7 +23,7 @@ GES Madhapur Mun 2025
     <h2>Engage. Debate. Lead.</h2>
     <button onclick="window.open('https://forms.gle/gcxCrFbsD1n9YD5c7')">Register Now</button>
     <div class="date-box">
-      <p><strong>Dates:</strong> 31st Oct & 1st Nov</p>
+      <p>Dates:31st Oct & 1st Nov</p>
     </div>
   </section>
 
