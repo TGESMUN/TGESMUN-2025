@@ -1,4 +1,4 @@
- # TGESMUN-2025
+TGESMUN-2025
 GES Madhapur Mun 2025
 <img src="images/GESMUN.jpeg" width="3%" height="3%"> 
 <html lang="en">
