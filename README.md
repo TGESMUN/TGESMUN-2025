@@ -148,10 +148,10 @@ socio-economic differences.
 <p><strong>explanation:</strong>This agenda focuses on making sure that everyone has equal rights, opportunities, and respect in society. It also looks at how poverty and social inequalities affect gender equality. The discussion will highlight ways countries can work together to remove barriers, promote fairness, and create a society where everyone—regardless of gender or background—can succeed equally.
 </p>
   <p>
- <strong>Anjana Avasarala-co-chair</strong> <br>
-     <img src="images/ANJANA EB.jpeg" width="20%" height="10%" > <br>
-    <strong>Jeni-co-chair</strong> <br>
-    <img src="images/JENI EB.jpeg" width="20%" height="10%">
+ <strong>Sagarika Das -co-chair</strong> <br>
+     <img src="images/Sagarika.png" width="20%" height="10%" > <br>
+    <strong>Sayona Swastika -co-chair</strong> <br>
+    <img src="images/SAYONA EB.jpeg" width="20%" height="10%">
     </p>
       <button onclick="window.open('https://docs.google.com/document/d/1W5iRCZXLR8o8nHOCbIrXXkY0KpIVUHbJBD-2wifVvQE/edit?usp=sharing')">Background Guide</button>
     </div>
@@ -171,10 +171,10 @@ will focus on how countries can work together to reduce pollution, manage waste
 safely, and protect global health.
  </p>
 <p>
- <strong>Sagarika Das -co-chair</strong> <br>
-  <img src="images/Sagarika.png" width="20%" height="10%" > <br>
- <strong>Sayona Swastika-co-chair</strong> <br>
-  <img src="images/SAYONA EB.jpeg" width="20%" height="10%">
+ <strong>Anjana Avasarala -co-chair</strong> <br>
+  <img src="images/ANJANA EB.jpeg" width="20%" height="10%" > <br>
+ <strong>Jeni -co-chair</strong> <br>
+  <img src="images/JENI EB.jpeg" width="20%" height="10%">
 </p>
       <button onclick="window.open('https://docs.google.com/document/d/1uGXKadyg7chzjHVGR_mO_3-sYdW5XZBrdizZ1dDBrEw/edit?usp=sharing')">Background Guide</button>
     </div>
